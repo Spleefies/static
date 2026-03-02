@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/static/",
-  title: "Home",
+  title: "Static",
   titleTemplate: ':title',
   description: "Static site",
   themeConfig: {
@@ -11,6 +11,8 @@ export default defineConfig({
     nav: [
       { text: 'Math', link: '/math/angles-without-protractor' }
     ],
+
+    siteTitle: "Home",
     
     sidebar: {
       "/math/": [

@@ -95,3 +95,9 @@ There are 39 icons with length 3.
 | 3| 277 |
 | 4| 77 |
 | 5| 11|
+
+## Data
+
+All Lucide icon names in a JavaScript Array:
+
+<<< names.js
