@@ -1,3 +1,9 @@
+---
+next:
+  text: "Lucide Icon Name Stats"
+  link: "../lucide-icon-name-stats"
+---
+
 # Angles Without Protractor
 
 How to draw and measure angles without a protractor.
