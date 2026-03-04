@@ -6,6 +6,9 @@ export default defineConfig({
   title: "Static",
   titleTemplate: ':title',
   description: "Static site",
+  markdown: {
+    math: true
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -19,7 +22,7 @@ export default defineConfig({
         {
           text: 'Math',
           items: [
-            // { text: 'Angles without protractors', link: '/math/angles-without-protractor' },
+            { text: 'Angles Without Protractor', link: '/math/angles-without-protractor' },
             { text: 'Lucide Icon Name Stats', link: '/math/lucide-icon-name-stats' },
           ]
         }
@@ -27,7 +30,7 @@ export default defineConfig({
     },
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/spleefies/static' }
     ]
   }
 })

@@ -1,0 +1,36 @@
+<svg width="800" height="300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2 0 0 2 0 -235.4)">
+  <rect class="dcg-svg-background" width="400" height="400" fill="#fff"/>
+  <g>
+   <title>Expression 1</title>
+   <path class="dcg-svg-curve" d="m360.91 252.86h-348.7" fill="none" stroke="#2d70b3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" paint-order="fill stroke markers"/>
+  </g>
+  <g>
+   <title>tan(x)</title>
+   <path class="dcg-svg-curve" d="m360.91 252.86v-120.65" fill="none" stroke="#2d70b3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" paint-order="fill stroke markers"/>
+  </g>
+  <g>
+   <title>Expression 1</title>
+   <path class="dcg-svg-curve" d="m12.208 252.86 348.7-120.65" fill="none" stroke="#2d70b3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" paint-order="fill stroke markers"/>
+  </g>
+  <g>
+   <title>Expression 1</title>
+   <path class="dcg-svg-curve" d="m360.91 252.86v-20h-20v20h20" fill-opacity=".4" paint-order="stroke fill markers"/>
+   <path class="dcg-svg-curve" d="m360.91 232.86h-20v20m20-30v30h-30" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity=".2" stroke-width="1.5" paint-order="fill stroke markers"/>
+  </g>
+  <g>
+   <title>Expression 1</title>
+  </g>
+  <g>
+   <title>Expression 1</title>
+  </g>
+  <g>
+   <title>Expression 1</title>
+  </g>
+  <g fill="#6042a6">
+   <path class="dcg-svg-point" d="m364.91 252.86a4 4 0 1 1 0-4e-3z" paint-order="stroke fill markers"/>
+   <path class="dcg-svg-point" d="m16.208 252.86a4 4 0 1 1-2e-6 -4e-3z" paint-order="stroke fill markers"/>
+   <path class="dcg-svg-point" d="m364.91 132.21a4 4 0 1 1 0-4e-3z" paint-order="stroke fill markers"/>
+  </g>
+ </g>
+</svg>

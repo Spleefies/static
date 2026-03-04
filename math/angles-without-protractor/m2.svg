@@ -1,0 +1,27 @@
+<svg width="800" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2,0,0,2,0,-398)">
+  <rect class="dcg-svg-background" width="400" height="400" fill="#fff"/>
+  <g>
+   <title>Expression 1</title>
+   <path class="dcg-svg-curve" d="m53.576 266.75 159.62-36.745" fill="none" stroke="#2d70b3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" paint-order="fill stroke markers"/>
+  </g>
+  <g>
+   <title>Expression 1</title>
+   <path class="dcg-svg-curve" d="m53.576 266.75 209.78-1.6361" fill="none" stroke="#2d70b3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5" paint-order="fill stroke markers"/>
+  </g>
+  <g>
+   <title>Expression 1</title>
+  </g>
+  <g>
+   <title>Expression 1</title>
+  </g>
+  <g>
+   <title>Expression 1</title>
+  </g>
+  <g fill="#6042a6">
+   <path class="dcg-svg-point" d="m57.576 266.75a4 4 0 1 1-2e-6 -4e-3z" paint-order="stroke fill markers"/>
+   <path class="dcg-svg-point" d="m217.2 230.01a4 4 0 1 1 0-4e-3z" paint-order="stroke fill markers"/>
+   <path class="dcg-svg-point" d="m267.35 265.12a4 4 0 1 1 0-4e-3z" paint-order="stroke fill markers"/>
+  </g>
+ </g>
+</svg>

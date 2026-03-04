@@ -5,6 +5,7 @@
   "private": true,
   "devDependencies": {
     "@types/bun": "latest",
+    "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "^2.0.0-alpha.16"
   },
   "peerDependencies": {
